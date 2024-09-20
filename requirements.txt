@@ -1,0 +1,12 @@
+python-dotenv
+wikipedia
+requests
+colorama
+time
+json
+sys
+re
+
+
+
+

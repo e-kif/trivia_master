@@ -1,0 +1,80 @@
+{
+    "movies": [
+        "The Godfather",
+        "Terminator 2",
+        "The Dark Knight",
+        "Pulp Fiction",
+        "The Shawshank Redemption",
+        "Oldboy (2003 film)",
+        "The Empire Strikes Back",
+        "Interstellar (film)",
+        "The Silence of the Lambs (film)",
+        "City of God (2002 film)",
+        "Parasite (2019 film)"
+    ],
+    "food": [
+        "Ceviche",
+        "Moussaka",
+        "K\u00f6nigsberger Klopse",
+        "Bobotie",
+        "G\u00f6zleme",
+        "Meat pie",
+        "Pad Thai",
+        "Laab",
+        "Bandeja paisa",
+        "Borscht",
+        "Chana masala"
+    ],
+    "books": [
+        "A Tale of Two Cities",
+        "The Little Prince",
+        "The Alchemist",
+        "The Tin Drum",
+        "Harry Potter and the Philosopher\u2019s Stone",
+        "And then there were none",
+        "The Hobbit",
+        "Alice\u2019s Adventures in Wonderland",
+        "The Da Vinci Code",
+        "One Hundred Years of Solitude",
+        "Watership Down"
+    ],
+    "places": [
+        "Ilha da Queimada Grande",
+        "United Nations Buffer Zone in Cyprus",
+        "North and South Brother Islands (New York City)",
+        "Mausoleum of the First Qin Emperor",
+        "Chernobyl",
+        "Area 51",
+        "North Sentinel Island",
+        "Vatican Apostolic Archive",
+        "Fort Knox",
+        "Svalbard Global Seed Vault",
+        "Lascaux"
+    ],
+    "trivia": [
+        "Darwin Awards",
+        "Philosophy",
+        "Mariana Trench",
+        "Scoville Scale",
+        "The Simpsons",
+        "Al Capone",
+        "Friends",
+        "Marie Curie",
+        "India Pale Ale",
+        "UEFA Euro 2024",
+        "Ikea"
+    ],
+    "animals": [
+        "Box jellyfish",
+        "Gila monster",
+        "Inland taipan",
+        "Blue-ringed octopus",
+        "Cone snail",
+        "Australian funnel-web spider",
+        "Deathstalker",
+        "Poison dart frog",
+        "Mexican beaded lizard",
+        "Platypus",
+        "Southern short-tailed shrew"
+    ]
+}
